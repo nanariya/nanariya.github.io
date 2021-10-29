@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>test</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2021-10-30T00:00:00+09:00</updated><entry><title>テスト</title><link href="/FirstPost.html" rel="alternate"></link><published>2021-10-30T00:00:00+09:00</published><updated>2021-10-30T00:00:00+09:00</updated><author><name>test</name></author><id>tag:None,2021-10-30:/FirstPost.html</id><content type="html">&lt;h1&gt;テスト&lt;/h1&gt;
 &lt;p&gt;ブログだよ
-dayodayoyoyo&lt;/p&gt;</content><category term="blog"></category><category term="blog"></category></entry></feed>
+dayodayoyoyo&lt;/p&gt;
+&lt;h2&gt;ブログの更新が楽になったかもしれない&lt;/h2&gt;</content><category term="blog"></category><category term="blog"></category></entry></feed>
