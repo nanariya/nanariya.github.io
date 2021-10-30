@@ -2,4 +2,5 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>test - blog</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2021-10-30T00:00:00+09:00</updated><entry><title>テスト</title><link href="/FirstPost.html" rel="alternate"></link><published>2021-10-30T00:00:00+09:00</published><updated>2021-10-30T00:00:00+09:00</updated><author><name>test</name></author><id>tag:None,2021-10-30:/FirstPost.html</id><content type="html">&lt;h1&gt;テスト&lt;/h1&gt;
 &lt;p&gt;ブログだよ
 dayodayoyoyo&lt;/p&gt;
-&lt;h2&gt;ブログの更新が楽になったかもしれない&lt;/h2&gt;</content><category term="blog"></category><category term="blog"></category></entry></feed>
+&lt;h2&gt;ブログの更新が楽になったかもしれない&lt;/h2&gt;</content><category term="blog"></category><category term="blog"></category></entry><entry><title>テスト2</title><link href="/tesuto2.html" rel="alternate"></link><published>2021-10-30T00:00:00+09:00</published><updated>2021-10-30T00:00:00+09:00</updated><author><name>test</name></author><id>tag:None,2021-10-30:/tesuto2.html</id><content type="html">&lt;h1&gt;テスト2&lt;/h1&gt;
+&lt;p&gt;2投稿目&lt;/p&gt;</content><category term="blog"></category><category term="blog"></category></entry></feed>
